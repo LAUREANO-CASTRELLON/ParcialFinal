@@ -1,0 +1,2 @@
+621;106501325;JULIAN RAMIREZ;52,M;19/06/2020;Positivo  Registro 5 Error : Codigo de Municipio
+001;106501327;RICHARD PITA;20,M;17/06/2020;Negativo  Registro 7 Error : Codigo de Municipio

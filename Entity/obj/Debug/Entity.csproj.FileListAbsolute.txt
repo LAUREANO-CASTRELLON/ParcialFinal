@@ -1,0 +1,6 @@
+C:\Users\spayd\source\repos\Tercer Parcial Programacion 3\Entity\bin\Debug\Entity.dll
+C:\Users\spayd\source\repos\Tercer Parcial Programacion 3\Entity\bin\Debug\Entity.pdb
+C:\Users\spayd\source\repos\Tercer Parcial Programacion 3\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\spayd\source\repos\Tercer Parcial Programacion 3\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\spayd\source\repos\Tercer Parcial Programacion 3\Entity\obj\Debug\Entity.dll
+C:\Users\spayd\source\repos\Tercer Parcial Programacion 3\Entity\obj\Debug\Entity.pdb
